@@ -31,8 +31,6 @@ C_f = 4e-3;
 
 
 % Grid side
-% ACSR panther conductor of 200 sq. mm cross-sectional area has a 
-% resistance of 0.15 ohm and inductance of 0.001 H per km
 Length = 5 ;
 R_g_per_km = 0.15;
 L_g_per_km = 0.001;
