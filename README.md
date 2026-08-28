@@ -1,6 +1,6 @@
 M. S. Hossain, "From Droop-Only to Advanced Control: Progressive Design of a Standalone Grid-Forming Inverter," 2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII), Pabna, Bangladesh, 2026, pp. 1-6, doi: 10.1109/PECCII70991.2026.11661899.
 
-If you use the simulink files, then cite my paper. URL: https://ieeexplore.ieee.org/document/11661899
+If you use the simulink files, then please cite my paper. URL: https://ieeexplore.ieee.org/document/11661899
 
 Bibtex:
 @INPROCEEDINGS{11661899,
